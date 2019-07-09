@@ -1,0 +1,28 @@
+.jumbotron{
+    background: rgb(13, 13, 150);
+    color: #fff;
+}
+form{
+    /* border: 2px solid #222; */
+    padding:2%;
+    padding-top: 0;
+}
+.btn-outline-light{
+    color: #000;
+}
+.fa{
+    padding-right: 2px;
+}
+#articleContainer{
+    margin-top:20px;
+    min-height: 100px;
+}
+#articleDiv{
+    padding:20px;
+}
+#artDiv{
+    border:1px solid #000;
+    border-radius: 10px;
+    margin-top:10px;
+    padding:10px;
+}
